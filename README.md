@@ -10,7 +10,10 @@
 <!--- Describe your app in one or two sentences -->
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width=120 align=right>
 
-This project is create for [#AndroidDevChallenge](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html), which build a App based on Jetpack Compose. The App can be used to browse and adopt cute little dogs, very interesting
+This project is create for [#AndroidDevChallenge](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html), which build a App based on Jetpack Compose. 
+
+In the app，you can browse the photos and information of puppies to find your favorite ones and adopt them
+
 
 
 ## :bulb: Motivation and Context
