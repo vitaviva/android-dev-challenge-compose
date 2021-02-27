@@ -7,10 +7,10 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-<img src="app/src/main/res/drawable-v24/ic_launcher.png" width=150 align=right>
+<img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width=120 align=right>
 
-This Project is for AndroidDevChallenge, which build a App based on Jetpack Compose,
-and the App can be used to browse and adopt cute little dogs， very interesting
+This project is create for [#AndroidDevChallenge](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html), which build a App based on Jetpack Compose,
+The App can be used to browse and adopt cute little dogs, very interesting
 
 
 ## :bulb: Motivation and Context
@@ -23,6 +23,7 @@ and the App can be used to browse and adopt cute little dogs， very interesting
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+
 <img src="/results/screenshot_3.png" width="260">&emsp;<img src="/results/screenshot_4.png" width="260">
 
 ## License
