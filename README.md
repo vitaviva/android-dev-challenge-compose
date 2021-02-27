@@ -1,16 +1,16 @@
-# Put title of your app here
+# TakeMeHome
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
 ![Workflow result](https://github.com/vitaviva/android-dev-challenge-compose/workflows/Check/badge.svg)
+![](https://img.shields.io/badge/jetpack_compose-1.0.0_beta01-green.svg)
 
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width=120 align=right>
 
-This project is create for [#AndroidDevChallenge](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html), which build a App based on Jetpack Compose,
-The App can be used to browse and adopt cute little dogs, very interesting
+This project is create for [#AndroidDevChallenge](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html), which build a App based on Jetpack Compose. The App can be used to browse and adopt cute little dogs, very interesting
 
 
 ## :bulb: Motivation and Context
