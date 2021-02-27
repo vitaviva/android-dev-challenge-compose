@@ -63,10 +63,8 @@ fun MyApp(vm: NavViewModel) {
                 is Screen.HomeScreen -> HomeScreen(vm)
                 is Screen.DetailsScreen -> DetailScreen((curScreen as Screen.DetailsScreen).puppy)
             }
-
         }
     }
-
 }
 
 @Preview("Light Theme", widthDp = 360, heightDp = 640)
@@ -84,4 +82,3 @@ fun DarkPreview() {
         MyApp(NavViewModel())
     }
 }
-
